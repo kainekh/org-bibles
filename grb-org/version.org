@@ -1,0 +1,11 @@
+#+TITLE: Greek Bible Version
+* Text forms
+
+** OT
+The Old Testament was taken from [[EBible][https://ebible.org]]. It is the Greek text underlying Brenton's LXX. Brenton's edition is a diplomatic version of B. He altered the underlying text by separating out pluses to Daniel and Esther. Since no Greek manuscript follows this form and since this is not the traditional or canonical representation of the Greek text, I have restored them to their proper palces.
+
+** NT
+The NT was taken from [[EBible][https://ebible.org]]. It is the Patriarchal Text from 1909.
+
+* License
+They are in the public domain.
