@@ -1,7 +1,11 @@
-#+TITLE: Bible README
+#+TITLE: Greek Bible Version
+* Text forms
 
-I took the USFM files from [[E-bible.org][https://ebible.org] and edited out the USFM tags to leave a fairly simple set of Bibles in Org mode. Any that would distract from reading was removed. In practice, I left chapters, verses, titles, and emphasis markers. Footnotes, lemmas, cross references, and the like were all removed.
+** OT
+The Old Testament was taken from [[EBible][https://ebible.org]]. It is the Greek text underlying Brenton's LXX. Brenton's edition is a diplomatic version of B. He altered the underlying text by separating out pluses to Daniel and Esther. Since no Greek manuscript follows this form and since this is not the traditional or canonical representation of the Greek text, I have restored them to their proper palces.
 
-Versification is kept roughly intact. I replaced the \qN markers with spaces with #+BEGIN_VERSE and #+END_VERSE tags. Verse numbers, however, have not been moved up. I may adjust that in the future if it proves difficult to read. However, that would be hard to do with an automated script, which is why I have not moved verse numbers from the margins.
+** NT
+The NT was taken from [[EBible][https://ebible.org]]. It is the Patriarchal Text from 1909.
 
-Books that were orignally one were joined together with section divisions marking them out. Also books that are one but too large to print on a single scroll were joined. Thus, the books of Samuel, Kings, and Chronicles are all joined together. The books of Ezra and Nehemiah were joined as they are in the manuscript tradition. Exceptions to this are the Law and Luke-Acts. I excepted the Law from being united because how far we join them is a bit vague. The same narrative continues into Joshua and Judges, so it's not clear where it ends. Luke was composed as sister volumes, but the ending of Luke has now stands alone. It has also been traditionally separated by John.
+* License
+They are in the public domain.

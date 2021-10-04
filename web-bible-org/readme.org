@@ -1,7 +1,11 @@
-#+TITLE: Bible README
+#+TITLE: Bible Version Information
 
-I took the USFM files from [[E-bible.org][https://ebible.org] and edited out the USFM tags to leave a fairly simple set of Bibles in Org mode. Any that would distract from reading was removed. In practice, I left chapters, verses, titles, and emphasis markers. Footnotes, lemmas, cross references, and the like were all removed.
+The texts here are taken from the [[WEB][https://worldenglishbible.org]]. 
 
-Versification is kept roughly intact. I replaced the \qN markers with spaces with #+BEGIN_VERSE and #+END_VERSE tags. Verse numbers, however, have not been moved up. I may adjust that in the future if it proves difficult to read. However, that would be hard to do with an automated script, which is why I have not moved verse numbers from the margins.
+All footnotes, cross-references, prefaces, front-matter, and back-matter have been removed.
 
-Books that were orignally one were joined together with section divisions marking them out. Thus, the books of Samuel, Kings, and Chronicles are all joined together. The books of Ezra and Nehemiah were joined as they are in the manuscript tradition.
+Versification is kept as far as I can keep it. The translation text has not been altered.
+
+Books in the traditional canons are not removed and are interspersed according to the Greek ordering the texts. In the case of Esther, the WEB version is kept alongside the traditional text since it is so different. Daniel is present only in the traditional form.
+
+The World English Bible text is in the public domain but not the name WEB.

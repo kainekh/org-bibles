@@ -1,0 +1,9 @@
+#+TITLE: Bible README
+
+I took the USFM files from [[E-bible.org][https://ebible.org] and edited out the USFM tags to leave a fairly simple set of Bibles in Org mode. Any that would distract from reading was removed. In practice, I left chapters, verses, titles, and emphasis markers. Footnotes, lemmas, cross references, and the like were all removed.
+
+Versification is kept roughly intact. I replaced the \qN markers with spaces with #+BEGIN_VERSE and #+END_VERSE tags. Verse numbers, however, have not been moved up. I may adjust that in the future if it proves difficult to read. However, that would be hard to do with an automated script, which is why I have not moved verse numbers from the margins.
+
+Books that were orignally one were joined together with section divisions marking them out. Thus, the books of Samuel, Kings, and Chronicles are all joined together. The books of Ezra and Nehemiah were joined as they are in the manuscript tradition.
+
+I kept the full canon in place. In the case of Daniel, the traditional and Masoretic versions are similar enough that the Septuagint pluses are inserted. In the case of Esther, the traditional text is marked as 119-estg.org to denote the Septuagint format and the Masoretic as 119-esth.org. Similarly, books that are significantly different in their Septuagint and Masoretic forms, like Jeremiah, have an appended g or h to differentiate. This is so that, if someone so chooses, they may have both in a personal Bible directory without competition.
