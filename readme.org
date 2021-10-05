@@ -1,10 +1,10 @@
 #+TITLE: Bible README
 
-This is still very much in progress. I am changing formatting, adding books, and deciding on a system.
+This is still very much in progress. I am changing formatting, adding books, and deciding on a system. If the Bibles are misformatted in some way form the automatic script, then pull requests are welcome.
 
 * Formatting
 
-I took the USFM files from [[E-bible.org][https://ebible.org] and edited out the USFM tags to leave a fairly simple set of Bibles in Org mode. Any that would distract from reading was removed. In practice, I left chapters, verses, titles, and emphasis markers. Footnotes, lemmas, cross references, and the like were all removed.
+I took the USFM files from [[https://ebible.org][Ebible]] and edited out the USFM tags to leave a fairly simple set of Bibles in Org mode. Any that would distract from reading was removed. In practice, I left chapters, verses, titles, and emphasis markers. Footnotes, lemmas, cross references, and the like were all removed.
 
 Versification is kept roughly intact. I replaced the \qN markers with spaces with #+BEGIN_VERSE and #+END_VERSE tags. Verse numbers, however, have not been moved up. I may adjust that in the future if it proves difficult to read. However, that would be hard to do with an automated script, which is why I have not moved verse numbers from the margins.
 
@@ -16,7 +16,7 @@ Strangely, this does not carry for the NT, and up until recently there was disag
 
 My approach is simple: if a book is in /any/ traditional Bible, it is treated as the Bible. In practice, I'm not including Ge'ez Bibles, because I cannot read them. Any biblical translation that includes Apocrypha never gets it separated. Daniel and Esther will always include the Greek portions. With Daniel, I include one copy, since the pluses to the Hebrew are easy to work around. However, I include two copies of Esther where it's relevant, because the pluses are much harder to work around. This also affects the naming of the books of Ezra as outlined below. It also means that differences in Greek and Russian Bibles are conflated.
 
-Eventually I will try to include books translated form the Ethiopian texts like I Enoch or the Book of Jubilees into a separate directory since no major translation includes them. They rarely even dignify the Ethiopian tradition by including their books as Apocrypha. It's as if they don't exist. For my part, even though it's confusing to others until I explain it, I make a point of counting their books as "Apocrypha" when I talk about them to give them some dignity and noting the books are not in my Bible (and I would not put them in).
+Eventually I will try to include books translated form the Ethiopian texts like I Enoch or the Book of Jubilees into a separate directory since no major translation includes them. They rarely even dignify the Ethiopian tradition by including their books as Apocrypha. It's as if they don't exist. For my part, even though it's confusing to others until I explain it, I make a point of counting their books as "Apocrypha" when I talk about them to give them some dignity and noting the books are not in my Bible (and I would not put them in). I have not included them yet, because I have seen so many corruptions in the e-texts of these books that I would not feel /remotely/ comfortable including them yet. At the moment, buy copies of these books, because the free versions I've seen are universally corrupt.
 
 * Books of Ezra
 
