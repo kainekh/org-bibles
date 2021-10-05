@@ -462,7 +462,7 @@
 38. And Saul clothed David with a military coat, and put his brazen helmet on his head.
 39. And he girded David with his sword over his coat: and he made trial walking with them once and again: and David said to Saul, I shall not be able to go with these, for I have not proved them: so they remove them from him.
 40. And he took his staff in his hand, and he chose for himself five smooth stones out of the brook, and put them in the shepherd's scrip which he had for his store, and his sling was in his hand; and he approached the Philistine.
-41. \it And the Philistine advanced and drew near to David, and a man bearing his shield went before him, and the Philistine looked on. \it*
+41. And the Philistine advanced and drew near to David, and a man bearing his shield went before him, and the Philistine looked on.
 42. And Goliath saw David, and despised him; for he was a lad, and ruddy, with a fair countenance.
 43. And the Philistine said to David, Am I as a dog, that you come against me with a staff and stones? and David said, Nay, but worse than a dog. And the Philistine cursed David by his gods.
 44. And the Philistine said to David, Come to me, and I will give your flesh to the birds of the air, and to the beasts of the earth.
@@ -476,10 +476,10 @@
 52. And the men of Israel and Juda arose, and shouted and pursued them as far as the entrance to Geth, and as far as the gate of Ascalon: and the slain men of the Philistines fell in the way of the gates, both to Geth, and to Accaron.
 53. And the men of Israel returned from pursuing after the Philistines, and they destroyed their camp.
 54. And David took the head of the Philistine, and brought it to Jerusalem; but he put his armor in his tent.
-55. \it And when Saul saw David going out to meet the Philistine, he said to Abener the captain of the host, Whose son is this youth? and Abener said, As your sould lives, O King, I know not. \it*
-56. \it And the king said, Do you ask whose son this youth is. \it*
-57. \it And as David returned from the slaughter of the Philistine, Abener took him and brought him before Saul, and the head of the Philistine was in his hand. \it*
-58. \it And Saul said to him, Whose son are you, young man? and David said, The son of your servant Jessae the Bethleemite. \it*
+55. And when Saul saw David going out to meet the Philistine, he said to Abener the captain of the host, Whose son is this youth? and Abener said, As your sould lives, O King, I know not.
+56. And the king said, Do you ask whose son this youth is.
+57. And as David returned from the slaughter of the Philistine, Abener took him and brought him before Saul, and the head of the Philistine was in his hand.
+58. And Saul said to him, Whose son are you, young man? and David said, The son of your servant Jessae the Bethleemite.
 ** 18
 1. And it came to pass when he had finished speaking to Saul, that the soul of Jonathan was knit to the soul of David and David loved him as his own soul.
 2. And Saul took him in that day, and did not suffer him to return to his father's house.
@@ -839,11 +839,7 @@
 10. And they set up his armor at the temple of Astarte, and they fastened his body on the wall of Baethsam.
 11. And the inhabitants of Jabis Galaad hear what the Philistines did to Saul.
 12. And they rose up, even every man of might, and marched all night, and took the body of Saul and the body of Jonathan his son from the wall of Baethsam; and they bring them to Jabis, and burn them there.
-13. And they take their bones, and bury them in the field that is in Jabis, and fast seven days. \id 2SA
-\h Kings II
-\toc1 KINGS II
-\toc2 Kings II
-\toc3 2SA
+13. And they take their bones, and bury them in the field that is in Jabis, and fast seven days.
 * II Kingdoms
 ** 1
 1. And it came to pass after Saul was dead, that David returned from striking Amalec, and David abode two days in Sekelac.
