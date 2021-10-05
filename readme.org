@@ -8,6 +8,18 @@ I took the USFM files from [[https://ebible.org][Ebible]] and edited out the USF
 
 Versification is kept roughly intact. I replaced the \qN markers with spaces with #+BEGIN_VERSE and #+END_VERSE tags. Verse numbers, however, have not been moved up. I may adjust that in the future if it proves difficult to read. However, that would be hard to do with an automated script, which is why I have not moved verse numbers from the margins.
 
+* Naming
+
+  As a rule, across all org Bibles I want common names or resolvable common names. This means no single tradition of the biblical text will be represented adequately:
+
+  - In the Masoretic tradition, 1-2 Samuel, 1-2 Kings are called as I just wrote them. In the LXX, they are 1-4 Kingdoms.
+  - The books of Ezra vary wildly in naming.
+  - 1-2 Chronicles are called 1-2 Paralipomenon in the Latin and Greek, "things left aside."
+  - "Malichi" is "My messenger."
+  - Names differ in Hebrew more often than not. They are named for the first word of the book.
+
+    No matter what someone is used to, because I opt for common names, some books will be presented weirdly.
+
 * Apocrypha
 
 "Apocrypha," as a general rule denotes books in a Roman Catholic or Orthodox Bible that the speaker does not include in theirs or, if they do, separate them out. It's a sliding term. Thus the Protestants consider all books not in their Bible "Apocrypha." The Roman Catholics have a smaller Bible than the Orthodox, so books like 1 Esdras or 3 Maccabees are "Apocrypha" in theirs and Protestant Bibles. The Orthodox have the broadest Old Testament of all with the Greeks and Russians differing including only one of 4 Maccabees and 3 Esdras respectively.
