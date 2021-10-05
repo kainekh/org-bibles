@@ -1,9 +1,51 @@
 #+TITLE: Bible README
 
+This is still very much in progress. I am changing formatting, adding books, and deciding on a system.
+
+* Formatting
+
 I took the USFM files from [[E-bible.org][https://ebible.org] and edited out the USFM tags to leave a fairly simple set of Bibles in Org mode. Any that would distract from reading was removed. In practice, I left chapters, verses, titles, and emphasis markers. Footnotes, lemmas, cross references, and the like were all removed.
 
 Versification is kept roughly intact. I replaced the \qN markers with spaces with #+BEGIN_VERSE and #+END_VERSE tags. Verse numbers, however, have not been moved up. I may adjust that in the future if it proves difficult to read. However, that would be hard to do with an automated script, which is why I have not moved verse numbers from the margins.
 
-Books that were orignally one were joined together with section divisions marking them out. Thus, the books of Samuel, Kings, and Chronicles are all joined together. The books of Ezra and Nehemiah were joined as they are in the manuscript tradition.
+* Apocrypha
 
-I kept the full canon in place. In the case of Daniel, the traditional and Masoretic versions are similar enough that the Septuagint pluses are inserted. In the case of Esther, the traditional text is marked as 119-estg.org to denote the Septuagint format and the Masoretic as 119-esth.org. Similarly, books that are significantly different in their Septuagint and Masoretic forms, like Jeremiah, have an appended g or h to differentiate. This is so that, if someone so chooses, they may have both in a personal Bible directory without competition.
+"Apocrypha," as a general rule denotes books in a Roman Catholic or Orthodox Bible that the speaker does not include in theirs or, if they do, separate them out. It's a sliding term. Thus the Protestants consider all books not in their Bible "Apocrypha." The Roman Catholics have a smaller Bible than the Orthodox, so books like 1 Esdras or 3 Maccabees are "Apocrypha" in theirs and Protestant Bibles. The Orthodox have the broadest Old Testament of all with the Greeks and Russians differing including only one of 4 Maccabees and 3 Esdras respectively.
+
+Strangely, this does not carry for the NT, and up until recently there was disagreement on that subject. Syrian Christians did not include Jude, 2-3 John, 2 Peter, or Revelation and would have considered them "Apocrypha." The Ethiopians have a much broader NT canon that includes things like I Clement. However, the term never denotes this, because "apocrypha" originally denoted books "hidden" from the Jewish Bible but in the Christian Bible and did not mean "fake."
+
+My approach is simple: if a book is in /any/ traditional Bible, it is treated as the Bible. In practice, I'm not including Ge'ez Bibles, because I cannot read them. Any biblical translation that includes Apocrypha never gets it separated. Daniel and Esther will always include the Greek portions. With Daniel, I include one copy, since the pluses to the Hebrew are easy to work around. However, I include two copies of Esther where it's relevant, because the pluses are much harder to work around. This also affects the naming of the books of Ezra as outlined below. It also means that differences in Greek and Russian Bibles are conflated.
+
+Eventually I will try to include books translated form the Ethiopian texts like I Enoch or the Book of Jubilees into a separate directory since no major translation includes them. They rarely even dignify the Ethiopian tradition by including their books as Apocrypha. It's as if they don't exist. For my part, even though it's confusing to others until I explain it, I make a point of counting their books as "Apocrypha" when I talk about them to give them some dignity and noting the books are not in my Bible (and I would not put them in).
+
+* Books of Ezra
+
+In the case of the books of Ezra, there is a */lot*/ of confusion as to what they actually are. Before I explain how these Org Bibles handles the problem, here's the background.
+
+There are three primary texts we have: Ezra-Nehemiah/2Esdras, 1 Esdras, and III Esdras. The naming conventions are a mess as explained below. "Esdras" is just "Ezra" from Latin and Greek.
+
+Ezra-Nehemiah form a single book in the Hebrew MSS and in most LXX MSS. It was originally separated by Origin, then followed suit by St. Jerome. This was picked up by English Bibles and bymost printed Bibles now. However, with the Hebrew and with the Greek versions, I join them and symlink Nehemiah to it. The text of 2 Esdras in the LXX is so similar to Ezra-Nehemiah that I regard it as a translation of the same text.
+
+1 Esdras replicates quite a bit of content from Chronicles and Ezra-Nehemiah with several passages unique to it. The relation of it to 2 Esdras is open. The Hebrew original is lost. It is named "I Esdras" in the LXX where the Greek translation of Ezra-Nehemiah as we now know it is 2 Esdras.
+
+The complexity comes with St. Jerome's translation. He omitted 1 Esdras from his translation initially (he had early issues with what we call "apocrypha" today and coined the term). He also followed Origin and separated Ezra-Nehemiah into two books. Without a I Esdras, his separated book of Ezra became his 1 Esdras. Since Nehemiah was a portion of Ezra-Nehemiah, he named it 2 Esdras. When he was forced to accept the traditional Latin Bible, he added 1 Esdras back in. However, he renamed it 3 Esdras. The Apocalypse, however, refers to itself as the "Second book of Ezra."
+
+There is also an Apocalypse of Ezra that appears in Slavonic Bibles as apocrypha. In Bibles that never underwent Origin's and Jerome's modifications, the book appears as 3 Esdras. However in the Latin tradition, the book appears as 4 Esdras where it was sometimes included until Trent.
+
+In English Bibles, 1 Esdras was omitted almost universally. The Latin 1 Esdras was renamed to Ezra, and 2 Esdras was renamed to Nehemiah, but 1 Esdras continued to be called III Esdras and the apocalypse was still called IV Esdras.../except/ when 1 Esdras is in a Septuagint translation, at which time it is called 1 Esdras again.
+
+Because of the confusion this engenders, I have to pick a way of naming them. I am including the LXX as a full member, so I am opting for the following:
+
+1. If a translation splits Ezra-Nehemiah, I name them as 2ezr-ezr and 2ezr-neh respectively. However, I present the original texts as a single text, 2ezr. I include org partitions so that it's easy to navigate them since most printed Hebrew Bibles no separate them (most Greek Septuagints are more faithful in this respect). I am not changing the translation choices, but I am naming the books to make it clear that they /should/ be printed as a single book.
+
+2. 1 Esdras is simply 1ezr. I'm simply not going to follow Jerome here.
+
+3. The Apocalypse of Ezra is 3ezr.
+
+There is no way of including a full suite of biblical books without Ezra becoming /extremely/ confusing.
+
+* Greek/Hebrew variations
+
+Books in Greek and Hebrew for the OT sometimes vary wildly. People are most often familiar with Daniel and Esther, but that's only because the Roman Catholics preserved the differences. However, other books present wild changes in structure. Jeremiah, for instance, is in a different order and is about 20% shorter in Greek. If you look up a verse reference in Jeremiah, it very often will not be remotely close to the Greek version.
+
+As a consequence, books that vary wildly are named with a g and h appended to the end of the book name. I am including a "pers" Bible directory to create a custom list of books that let you choose favorite translations from any given book and a Lisp script for quick lookup there. As a consequence, some people might want both versions, so making them distinct is useful.
