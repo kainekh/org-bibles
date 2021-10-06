@@ -44,17 +44,24 @@ The complexity comes with St. Jerome's translation. He omitted 1 Esdras from his
 
 There is also an Apocalypse of Ezra that appears in Slavonic Bibles as apocrypha. In Bibles that never underwent Origin's and Jerome's modifications, the book appears as 3 Esdras. However in the Latin tradition, the book appears as 4 Esdras where it was sometimes included until Trent.
 
-In English Bibles, 1 Esdras was omitted almost universally. The Latin 1 Esdras was renamed to Ezra, and 2 Esdras was renamed to Nehemiah, but 1 Esdras continued to be called III Esdras and the apocalypse was still called IV Esdras.../except/ when 1 Esdras is in a Septuagint translation, at which time it is called 1 Esdras again.
+In English Bibles, 1 Esdras was omitted almost universally. The Latin 1 Esdras was renamed to Ezra, and 2 Esdras was renamed to Nehemiah. 1 Esdras is simply called 1 Esdras because Ezra and Esdras get treated as different words in English. The apocalypse was still called 4 Esdras.../except/ when in a translation of the LXX when it may be called 3 Esdras.
 
 Because of the confusion this engenders, I have to pick a way of naming them. I am including the LXX as a full member, so I am opting for the following:
 
-1. If a translation splits Ezra-Nehemiah, I name them as 2ezr-ezr and 2ezr-neh respectively. However, I present the original texts as a single text, 2ezr. I include org partitions so that it's easy to navigate them since most printed Hebrew Bibles no separate them (most Greek Septuagints are more faithful in this respect). I am not changing the translation choices, but I am naming the books to make it clear that they /should/ be printed as a single book.
+1. If a translation splits Ezra-Nehemiah, I name them as 2ezr-ezr and 2ezr-neh respectively. However, I present the original texts as a single text, I use 2ezr. I did merge them together in the masoretic text even though the source e-text did not, because it universally is in the MSS. I included org partitions so that it's easy to navigate them since most printed Hebrew Bibles no separate them (most Greek Septuagints are more faithful in this respect). I am not changing the translation choices, but I am naming the books to make it clear that they /should/ be printed as a single book.
 
 2. 1 Esdras is simply 1ezr. I'm simply not going to follow Jerome here.
 
 3. The Apocalypse of Ezra is 3ezr.
 
-There is no way of including a full suite of biblical books without Ezra becoming /extremely/ confusing.
+There is no way of including a full suite of biblical books without Ezra becoming /extremely/ confusing, but here is a table for:
+
+| English  | Septuagint | Hebrew | Vulgate  |
+| -------- | ---------- | ------ | -------- |
+| Ezra     | 2 Esdras   | Ezra   | 1 Esdras |
+| Nehemiah | 2 Esdras   | Ezra   | 2 Esdras |
+| 1 Esdras | 1 Esdras   | na     | 3 Esdras |
+| 4 Esdras | 3 Esdras   | na     | 4 Esdras |
 
 * Greek/Hebrew variations
 
