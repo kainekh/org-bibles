@@ -57,7 +57,6 @@ Because of the confusion this engenders, I have to pick a way of naming them. I 
 There is no way of including a full suite of biblical books without Ezra becoming /extremely/ confusing, but here is a table for:
 
 | English  | Septuagint | Hebrew | Vulgate  |
-| -------- | ---------- | ------ | -------- |
 | Ezra     | 2 Esdras   | Ezra   | 1 Esdras |
 | Nehemiah | 2 Esdras   | Ezra   | 2 Esdras |
 | 1 Esdras | 1 Esdras   | na     | 3 Esdras |

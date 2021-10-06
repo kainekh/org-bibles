@@ -1,4 +1,4 @@
-#+TITLE: ESDRAS
+#+TITLE: I ESDRAS
 * 1
 1. In anno primo Cyri regis Persarum, ut compleretur verbum Domini ex ore Jeremiæ, suscitavit Dominus spiritum Cyri regis Persarum: et traduxit vocem in omni regno suo, etiam per scripturam, dicens:
 2. Hæc dicit Cyrus rex Persarum: Omnia regna terræ dedit mihi Dominus Deus cæli, et ipse præcepit mihi ut ædificarem ei domum in Jerusalem, quæ est in Judæa.
