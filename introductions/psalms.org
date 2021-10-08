@@ -70,7 +70,6 @@ When the Psalter is from the Masoretic or proto-Masoretic tradition, I add the f
    | Book 3   | Psalms 73-89   |
    | Book 4   | Psalms 90-106  |
    | Book 5   | Psalms 107-150 |
-   | -------- + -------------- |
 
 ** Septuagint Divisions
    This numbering uses the LXX numbering.
@@ -135,6 +134,5 @@ When the Psalter is from the Masoretic or proto-Masoretic tradition, I add the f
    | Kathisma 20 | Stasis 1  |    143-144 |
    | Kathisma 20 | Stasis 2  |    145-147 |
    | Kathisma 20 | Stasis 3  |    148-150 |
-   |-------------+-----------+------------|
 
    Psalm 151 is not read in the prayer cycle.
