@@ -1,0 +1,7 @@
+#+TITLE: Psalms for Prayer
+
+The Psalms were never written to be read in isolation. They have been the most important hymnbook and prayerbook of Christians. It has been used in private prayers, presented as the Gospel in song format, used as the basis for services, used in exorcisms, and a great many other things. It has had this function since before Christianity, and it continues to have this function in Christianity. Ps 118/119, for instance, has long been used in funerals and is still read in its entirity in Orthodox funerals.
+
+To aide this use, it has been divided into sections. There are two primary traditions I know of. In the Hebrew tradition, followed by the West, the Psalms are divided into five books in imitation of the Torah. This follows a large metanarrative that seems to hold the Gospel in it. For private prayer and reading, this is useful. In the Orthodox tradition, the Septuagint Psalms were divided into twenty sections called /kathisma/. Each of the /kathismata/ is divided into three sections called a /stasis/. The format is intended to facilitate reading the Psalms liturgically.
+
+When the Psalter is from the Masoretic or proto-Masoretic tradition, I add the five divisions. When it is from the Septuagint, I add the twenty /kathismata/.
