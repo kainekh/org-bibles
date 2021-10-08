@@ -1,0 +1,140 @@
+#+TITLE: Psalms
+
+* Introduction
+
+  The Psalms are a collection of hymns. They are attributed to various individuals and the Hebrew was originally organized into five books. In the later Christian Septuagint tradition, the books were segregated into twenty divisions for iturgical uses. I recommend following both uses, as each has something to add to one's spiritual life.
+
+  There is a general progression of the Psalms, a sort of literary message. The problem is, it's not easy to discern exactly /what/ it is. People have disagreed throughout history. The structure of the Psalms, as we have them, probably arose in the Second Temple period and edited earlier hymns.
+
+  This ambiguity is rather fitting for the Bible's wisdom literature. Some documents (such as this introduction) seek to lay out their points clearly and in an argumentative format for people to see rather easily. Wisdom literature, by contrast, is like a joke. If someone explains it, then you've lost something. We need commentary with our cultural separation, but wisdom literature should be read and reread. As you do, you begin to perceive a meaning. However, that meaning is elusive and efemeral to someone who hasn't seen it. They may understand it some if you explain it, but the full meaning will elude them. It may help them to see the more full meaning later. Keeping with that theme on wisdom literature, I do not intend to sketch a complete view of the book. People should read them, pray them, go to worship services with them, cry with Psalm 118/119 at a funeral, and so on. Some literature fits thorough outlines and exhaustive commentary, but the Psalms are best if you read them like you do jokes. You don't want someone to really explain it too thoroughly, because you want the punchline. I read these from a Christian lens, and I make no qualms about it. I present that as an outline.
+
+  In the eighth century, Assyria destroyed Israel. Then at the beginning of the sixth century BC Babylon destroyed the Jewish Temple in Jerusalem and took Judah captive. They were then sent back by Persia and permitted to rebuild the Temple. They were conquered by the Macedonians who waged a war of genocide. The Jews had a brief period of libergy under the Maccabeans, but that was smashed when Rome conquered them.
+
+  The Psalms are old, many of them older than the Babylonian captivity, but they are individual compositions. The book, itself, took form during this period, so it's important to understand this period. To grasp the despair, you should start by reading Psalm 136/137 (LXX/Mas). Conquest in antiquity was a brutal affair. Women had their wombs ripped open and the babies smashed on the ground. The young men were either slaughtered or taken from their families to slavery. The Romans would nail Jews repeatedly to the cross (Pontius Pilate was particularly fond of it). Another is to read the torture of a Jewish woman and her chidlren in 2 Maccabees 7. When you read Psalm 136/137, keep that background in mind. It is absolutely shocking to the modern mind, but I Enoch reacts to these empires in the same way as the Psalter with veiled language in 12.1-6. Keep in mind that the Lord Jesus himself alluded to this passage in Mt 22.30 (it is the probably the source of the idea that angels neither marry nor are given in marriage).
+
+    The background is found in the books of Kings, Chronicles, 1-2 Esdras (2 Esdras is Ezra-Nehemiah), and 1-2 Maccabees. Pay especial attention to the martyriologies in 2 Maccabees. The prophecy about Christ Wisdom 1-3 was conditioned by the sneering of the nations as well. Daniel's visions are the basis of the general theological outline that they believed about the Eschaton. This background disallows any vision of the afterlife where the wicked do not face punishment. The hard, cold reality is that in an of the three historical schemes, the wicked will face horrifying torture for these things.
+
+    The Psalms retell the history of Israel in hymnic form. It does so with that background in mind. Psalms 1 and 2 set the two competing themes in stark contrast. In Psalm 1, we have an emphasis on the righteous man. He will prosper like trees planted by the waters, but the wicked will perish. Psalm 2 is the "Why do the nations rage," and is about the attack of the nations on God and his people. I believe the "kings of the earth" represent the nations and "the rulers" represent the angels they worship as gods. The end with the promise God will shatter them into pieces with the threat "kiss the Son lest he be angry and you perish from the way."
+
+    These two themes reiterate throughout the Psalms. They are told from different angles and with different purposes:
+
+    - Psalm 67/68 prophesies the resurrection and is read on Pascha, "Let God arise, and let his enemies be scattered! Christis risen from the dead, trampling down death by death!"
+    - Psalm 118/119 is the funeral psalm.
+    - Psalm 103/104, with its focus on creation, death, and resurrection. God takes their spirit, and the animals die. He sends his, and they are created. It is the fitting Psalm for the Christian continuation of the synagogue services.
+    - Psalm 24 has God taunting the lords of Hell with their own epics and laying siege to their fortress. It is read at the consecration of a church.
+    - It ends with Psalm 148 having all creation praise God in his victory and gives Israel an angelic title, "holy ones." 149 focuses praise on the people, then 150 a direct statement of praise. These are songs of victory after the war is won.
+
+      In this sense, the Psalms recount the war of the nations and their gods on God's people. They destroy the people, but God restores the people. It includes promise of a heavenly king, and an ultimate victory of conquest over evil.
+
+      This is how I see the structure of the Psalms in brief. Read them, and pray them. Later I may set a document up for when each one is read to help with that task.
+
+* Numbering
+
+  There are two different numberings: the Masoretic and the Septuagint. The differences are:
+
+  |-----------+------------|
+  | Masoretic | Septuagint |
+  |       1-8 |        1-8 |
+  |      9-10 |          9 |
+  |    11-113 |     10-112 |
+  |   114-115 |        113 |
+  |       116 |    114-115 |
+  |   117-146 |    116-145 |
+  |       147 |    146-147 |
+  |   148-150 |    148-150 |
+  |-----------+------------|
+
+  In addition, the Septuagint also has Psalm 151. It is not numbered among the liturgically read psalms. The Syriac Psalms also include Psalms 152-155. I do not know whether they read them liturgically.
+
+** Extra Psalms and the Dead Sea Scrolls
+
+   As mentioned, The Septuagint has Psalm 151, and the Syriac Christians have Psalms 152-5. In the Dead Sea Scrolls fragments of the Psalms have been found. They were not necessarily in exactly the same form.
+   
+   Psalm 151 is condensed from two Psalms and has not fared particularly well in that respect. It has fared particularly poorly. The Hebrew 151a and 151b that were smashed together are particularly powerful. The Greek leaves much to be desired by comarison. However, it lends me a powerful lesson: when I hear somone say that there are no Semiticisms to a book or that there is no chance of a Hebrew orign for a book or portion of one, then I call to mind this Psalm. All those things were said about it until we found the Hebrew version.
+
+   Psalms 154 and 155 have both been found in the Dead Sea Scrolls. Psalm 152 and 153 exist only in Syriac translation.
+   
+* Prayer
+
+The Psalms were never written to be read in isolation. They have been the most important hymnbook and prayerbook of Christians. It has been used in private prayers, presented as the Gospel in song format, used as the basis for services, used in exorcisms, and a great many other things. It has had this function since before Christianity, and it continues to have this function in Christianity. Ps 118/119, for instance, has long been used in funerals and is still read in its entirity in Orthodox funerals.
+
+To aide this use, it has been divided into sections. There are two primary traditions I know of. In the Hebrew tradition, followed by the West, the Psalms are divided into five books in imitation of the Torah. This follows a large metanarrative that seems to hold the Gospel in it. For private prayer and reading, this is useful. In the Orthodox tradition, the Septuagint Psalms were divided into twenty sections called /kathisma/. Each of the /kathismata/ is divided into three sections called a /stasis/. The format is intended to facilitate reading the Psalms liturgically.
+
+When the Psalter is from the Masoretic or proto-Masoretic tradition, I add the five divisions. When it is from the Septuagint, I add the twenty /kathismata/.
+
+** Masoretic Divisions
+   This numbering follows the Masoretic format.
+   |----------+----------------|
+   | Book 1   | Psalms 1-41    |
+   | Book 2   | Psalms 42-72   |
+   | Book 3   | Psalms 73-89   |
+   | Book 4   | Psalms 90-106  |
+   | Book 5   | Psalms 107-150 |
+   | -------- | -------------- |
+
+** Septuagint Divisions
+   This numbering uses the LXX numbering.
+   |-------------+-----------+------------|
+   | Kathisma 1  | Stasis 1  |        1-3 |
+   | Kathisma 1  | Stasis 2  |        4-6 |
+   | Kathisma 1  | Stasis 3  |        7-8 |
+   | Kathisma 2  | Stasis 1  |       9-10 |
+   | Kathisma 2  | Stasis 2  |      11-13 |
+   | Kathisma 2  | Stasis 3  |      14-16 |
+   | Kathisma 3  | Stasis 1  |         17 |
+   | Kathisma 3  | Stasis 2  |      18-20 |
+   | Kathisma 3  | Stasis 3  |      21-23 |
+   | Kathisma 4  | Stasis  1 |      24-26 |
+   | Kathisma 4  | Stasis  2 |      27-29 |
+   | Kathisma 4  | Stasis  3 |      30-31 |
+   | Kathisma 5  | Stasis 1  |      32-33 |
+   | Kathisma 5  | Stasis 2  |      34-35 |
+   | Kathisma 5  | Stasis 3  |         36 |
+   | Kathisma 6  | Stasis 1  |      37-39 |
+   | Kathisma 6  | Stasis 2  |      40-42 |
+   | Kathisma 6  | Stasis 3  |      43-45 |
+   | Kathisma 7  | Stasis 1  |      46-48 |
+   | Kathisma 7  | Stasis 3  |      49-50 |
+   | Kathisma 7  | Stasis 1  |      51-54 |
+   | Kathisma 8  | Stasis 2  |      55-57 |
+   | Kathisma 8  | Stasis 3  |      58-60 |
+   | Kathisma 8  | Stasis 1  |      61-63 |
+   | Kathisma 9  | Stasis 2  |      64-66 |
+   | Kathisma 9  | Stasis 3  |         67 |
+   | Kathisma 9  | Stasis 1  |      68-69 |
+   | Kathisma 10 | Stasis 2  |      70-71 |
+   | Kathisma 10 | Stasis 2  |      72-73 |
+   | Kathisma 10 | Stasis 3  |      74-76 |
+   | Kathisma 11 | Stasis 1  |         77 |
+   | Kathisma 11 | Stasis 2  |      78-80 |
+   | Kathisma 11 | Stasis 3  |      81-84 |
+   | Kathisma 12 | Stasis 1  |      85-87 |
+   | Kathisma 12 | Stasis 2  |         88 |
+   | Kathisma 12 | Stasis 3  |      89-90 |
+   | Kathisma 13 | Stasis 1  |      91-93 |
+   | Kathisma 13 | Stasis 2  |      94-96 |
+   | Kathisma 13 | Stasis 3  |     97-100 |
+   | Kathisma 14 | Stasis 1  |    101-102 |
+   | Kathisma 14 | Stasis 2  |        103 |
+   | Kathisma 14 | Stasis 3  |        104 |
+   | Kathisma 15 | Stasis 1  |        105 |
+   | Kathisma 15 | Stasis 2  |        106 |
+   | Kathisma 15 | Stasis 3  |    107-108 |
+   | Kathisma 16 | Stasis 1  |    109-111 |
+   | Kathisma 16 | Stasis 2  |    112-114 |
+   | Kathisma 16 | Stasis 3  |    115-117 |
+   | Kathisma 17 | Stasis 1  |   118.1-72 |
+   | Kathisma 17 | Stasis 2  | 118.73-131 |
+   | Kathisma 17 | Stasis 3  | 118.132ff. |
+   | Kathisma 18 | Stasis 1  |    119-123 |
+   | Kathisma 18 | Stasis 2  |    124-128 |
+   | Kathisma 18 | Stasis 3  |    129-133 |
+   | Kathisma 19 | Stasis 1  |    134-136 |
+   | Kathisma 19 | Stasis 2  |    137-139 |
+   | Kathisma 19 | Stasis 3  |    140-142 |
+   | Kathisma 20 | Stasis 1  |    143-144 |
+   | Kathisma 20 | Stasis 2  |    145-147 |
+   | Kathisma 20 | Stasis 3  |    148-150 |
+   |-------------+-----------+------------|
+
+   Psalm 151 is not read in the prayer cycle.

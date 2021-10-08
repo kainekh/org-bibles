@@ -1,6 +1,6 @@
 #+TITLE: Bible README
 
-This is still very much in progress. I am changing formatting, adding books, and deciding on a system. If the Bibles are misformatted in some way form the automatic script, then pull requests are welcome.
+This is still very much in progress. I am changing formatting, adding books, and deciding on a system. If the Bibles are misformatted in some way from the automatic script, then pull requests are welcome.
 
 * Formatting
 
