@@ -70,7 +70,7 @@ When the Psalter is from the Masoretic or proto-Masoretic tradition, I add the f
    | Book 3   | Psalms 73-89   |
    | Book 4   | Psalms 90-106  |
    | Book 5   | Psalms 107-150 |
-   | -------- | -------------- |
+   | -------- + -------------- |
 
 ** Septuagint Divisions
    This numbering uses the LXX numbering.
