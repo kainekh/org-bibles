@@ -44,7 +44,7 @@ The complexity comes with St. Jerome's translation. He omitted 1 Esdras from his
 
 There is also an Apocalypse of Ezra that appears in Slavonic Bibles as apocrypha. In Bibles that never underwent Origin's and Jerome's modifications, the book appears as 3 Esdras. However in the Latin tradition, the book appears as 4 Esdras where it was sometimes included until Trent.
 
-In English Bibles, 1 Esdras was omitted almost universally. The Latin 1 Esdras was renamed to Ezra, and 2 Esdras was renamed to Nehemiah. 1 Esdras is simply called 1 Esdras because Ezra and Esdras get treated as different words in English. The apocalypse was still called 4 Esdras.../except/ when in a translation of the LXX when it may be called 3 Esdras.
+In English Bibles, 1 Esdras was omitted almost universally. The Latin 1 Esdras was renamed to Ezra, and 2 Esdras was renamed to Nehemiah. 1 Esdras is simply called 1 Esdras because Ezra and Esdras get treated as different words in English. The apocalypse was still called 4 Esdras.../except/ when in a translation 2 Esdras (LXX), when it may be called 3 Esdras.
 
 Because of the confusion this engenders, I have to pick a way of naming them. I am including the LXX as a full member, so I am opting for the following:
 
@@ -60,7 +60,8 @@ There is no way of including a full suite of biblical books without Ezra becomin
 | Ezra     | 2 Esdras   | Ezra   | 1 Esdras |
 | Nehemiah | 2 Esdras   | Ezra   | 2 Esdras |
 | 1 Esdras | 1 Esdras   | na     | 3 Esdras |
-| 4 Esdras | 3 Esdras   | na     | 4 Esdras |
+| 2 Esdras | 3 Esdras+  | na     | 4 Esdras |
++Note: 3 Esdras is technically not in the LXX but the Slavonic Bible
 
 * Greek/Hebrew variations
 
